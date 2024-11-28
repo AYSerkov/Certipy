@@ -392,7 +392,6 @@ class KDCOptions(core.BitString):
         25: "unused25",
         26: "disable-transited-check",
         27: "renewable-ok",
-        28: "enc-tkt-in-skey",
         30: "renew",
         31: "validate",
     }
